@@ -1,0 +1,52 @@
+2023-02-11 15:06:06,240 Open the file for writing
+2023-02-11 15:06:06,241 Write a line of text to the file
+2023-02-11 15:06:06,241 Close the file
+2023-02-11 15:06:06,241 Open the file for reading
+2023-02-11 15:06:06,241 Read the contents of the file
+2023-02-11 15:06:06,241 Print the contents of the file
+2023-02-11 15:06:06,242 Close the file
+2023-02-11 15:28:13,615 Open the file for reading
+2023-02-11 15:28:13,616 Read the entire contents of the file
+2023-02-11 15:28:13,616 Print the contents of the file
+2023-02-11 15:28:13,617 Close the file
+2023-02-11 15:28:13,617 Open the file for reading
+2023-02-11 15:28:13,618 Read the first line of the file
+2023-02-11 15:28:13,618 Print the first line of the file
+2023-02-11 15:28:13,618 Read the second line of the file
+2023-02-11 15:28:13,618 Print the second line of the file
+2023-02-11 15:28:13,618 Close the file
+2023-02-11 15:28:13,618 Open the file for reading
+2023-02-11 15:28:13,619 Read all the lines of the file
+2023-02-11 15:28:13,619 Print the lines of the file
+2023-02-11 15:28:13,619 Close the file
+2023-02-11 15:28:20,865 Open the file using the with statement
+2023-02-11 15:28:20,866 Read the entire contents of the file
+2023-02-11 15:28:20,866 Print the contents of the file
+2023-02-11 15:31:01,892 Open the file for writing
+2023-02-11 15:31:01,893 Write a line of text to the file
+2023-02-11 15:31:01,893 Close the file
+2023-02-11 15:31:01,894 Open the file for reading
+2023-02-11 15:31:01,894 Read the contents of the file
+2023-02-11 15:31:01,894 Print the contents of the file
+2023-02-11 15:31:01,894 Close the file
+2023-02-11 15:31:03,880 Open the file for reading
+2023-02-11 15:31:03,880 Read the entire contents of the file
+2023-02-11 15:31:03,881 Print the contents of the file
+2023-02-11 15:31:03,881 Close the file
+2023-02-11 15:31:03,882 Open the file for reading
+2023-02-11 15:31:03,882 Read the first line of the file
+2023-02-11 15:31:03,882 Print the first line of the file
+2023-02-11 15:31:03,882 Read the second line of the file
+2023-02-11 15:31:03,882 Print the second line of the file
+2023-02-11 15:31:03,883 Close the file
+2023-02-11 15:31:03,883 Open the file for reading
+2023-02-11 15:31:03,883 Read all the lines of the file
+2023-02-11 15:31:03,883 Print the lines of the file
+2023-02-11 15:31:03,883 Close the file
+2023-02-11 15:31:06,687 Open the file using the with statement
+2023-02-11 15:31:06,687 Read the entire contents of the file
+2023-02-11 15:31:06,687 Print the contents of the file
+2023-02-11 15:31:55,515 the file is opened in write mode ('w'), which means that the contents of the file will be overwritten. If the file does not exist, it will be created.
+2023-02-11 15:31:55,516 the file is opened in write mode which means that the contents of the file will be overwritten. If the file does not exist, it will be created. The list of strings is written to the file as separate lines, without any line separators.It is important to close the file after writing to it, as this ensures that all data has been written to the file and reduces the risk of data corruption or resource leaks.The with statement can be used to automatically close the file.
+2023-02-11 15:32:10,770 the file is opened in write mode ('w'), which means that the contents of the file will be overwritten. If the file does not exist, it will be created.
+2023-02-11 15:32:10,771 the file is opened in write mode ('w'), which means that the contents of the file will be overwritten. If the file does not exist, it will be created. The list of strings is written to the file as separate lines, without any line separators.It is important to close the file after writing to it, as this ensures that all data has been written to the file and reduces the risk of data corruption or resource leaks.The with statement can be used to automatically close the file.
